@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI\\bin",
+    "\\WebAPI\\bin\\Debug",
+    "\\WebAPI\\bin\\Release",
+    "\\WebAPI\\bin\\Release\\netcoreapp3.0",
+    "\\WebAPI\\Controllers",
+    "\\WebAPI\\Migrations",
+    "\\WebAPI\\Models",
+    "\\WebAPI\\Properties"
+  ],
+  "SelectedNode": "\\WebAPI\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
